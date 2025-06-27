@@ -1,0 +1,11 @@
+boto3==1.38.45
+botocore==1.38.45
+fire==0.7.0
+langchain==0.3.26
+numpy==2.3.1
+openai==1.92.3
+pandas==2.3.0
+protobuf==6.31.1
+scikit_learn==1.7.0
+tqdm==4.67.1
+transformers==4.53.0
