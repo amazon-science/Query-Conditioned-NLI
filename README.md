@@ -5,7 +5,7 @@ This repository contains the dataset and code for the paper "Benchmarking Query-
 <div align="center">
   <img src="imgs/qcnli.png" width="600px">
   <br>
-  <em><b>Natural language inference (NLI).</b> (a) Sentence-level NLI has a label $$\ell$$ indicating the semantic relationship between a premise sentence $s_p$ and hypothesis sentence $s_h$. (b) Document-level NLI conditions $\ell$ on a premise \textit{document} $d_p$ and a hypothesis document $d_h$. (c) Query-conditioned NLI conditions label $\ell _i$ on premise document $d_p$, hypothesis document $d_h$, and a \textit{query} $q_i$, which indicates the aspect of the documents the semantic relationship should be based on.</em>
+  <em><b>Natural language inference (NLI).</b> (a) Sentence-level NLI has a label &ell; indicating the semantic relationship between a premise sentence s<sub>p</sub> and hypothesis sentence s<sub>h</sub>. (b) Document-level NLI conditions &ell; on a premise document d<sub>p</sub> and a hypothesis document d<sub>h</sub>. (c) Query-conditioned NLI conditions label &ell;<sub>i</sub> on premise document d<sub>p</sub>, hypothesis document d<sub>h</sub>, and a query q<sub>i</sub>, which indicates the aspect of the documents the semantic relationship should be based on.</em>
 </div>
 
 
